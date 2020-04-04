@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/dj0nny/quentin#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/dj0nny/quentin/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/dj0nny/quentin)](https://github.com/dj0nny/quentin/blob/master/LICENSE.md)
+[![License: MIT](https://img.shields.io/github/license/dj0nny/quentin)](https://github.com/dj0nny/quentin/blob/develop/LICENSE.md)
 
 > A Discord bot for discovering new movies built w/ discord.js
 
@@ -37,7 +37,6 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [dj0nny](https://github.com/dj0nny).
 
-This project is [MIT](https://github.com/dj0nny/quentin/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/dj0nny/quentin/blob/develop/LICENSE.md) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
