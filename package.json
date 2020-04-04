@@ -1,7 +1,7 @@
 {
   "name": "quentin",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Discord bot for discovering new movies built w/ discord.js",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/dj0nny/quentin.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "dj0nny<frank96990@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dj0nny/quentin/issues"

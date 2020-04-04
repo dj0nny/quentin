@@ -4,7 +4,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/dj0nny/quentin/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/github/license/dj0nny/quentin)](https://github.com/dj0nny/quentin/blob/master/LICENSE.md)
 
-> after
+> A Discord bot for discovering new movies built w/ discord.js
 
 ### 🏠 [Homepage](https://github.com/dj0nny/quentin#readme)
 
