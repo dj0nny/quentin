@@ -15,5 +15,8 @@ module.exports = {
     ecmaVersion: 2018,
   },
   rules: {
+    'no-useless-return': 'off',
+    'quote-props': 'off',
+    'no-case-declarations': 'off'
   },
 };
