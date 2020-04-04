@@ -39,5 +39,3 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [dj0nny](https://github.com/dj0nny).
 
 This project is [MIT](https://github.com/dj0nny/quentin/blob/develop/LICENSE.md) licensed.
-
-***
