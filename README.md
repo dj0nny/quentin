@@ -11,6 +11,7 @@
 ## Install
 
 ```sh
+cd quentin/
 npm install
 ```
 
